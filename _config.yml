@@ -29,7 +29,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-base_url: https://samjohn.github.io
+base_url: /samanthajohn
 production_url: https://samjohn.github.io
 
 # Exclude from processing.

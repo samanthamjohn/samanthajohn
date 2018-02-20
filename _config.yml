@@ -29,7 +29,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-production_url : http://samjohn.github.io
+base_url: https://samjohn.github.io
+production_url: https://samjohn.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

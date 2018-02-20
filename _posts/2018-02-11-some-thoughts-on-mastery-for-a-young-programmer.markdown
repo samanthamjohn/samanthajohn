@@ -4,8 +4,6 @@ title:  "Some thoughts on mastery for a young programmer"
 date:   2018-02-11 1:11pm
 categories: programming
 ---
-Note: originally wrote this on medium, but I realized I prefer to own my own content.
---
 I recently met Ivan, a high schooler who is interested in both programming and self-improvement — two of my favorite topics. He taught himself to program and created several iPhone apps. He wanted to improve his programming skills but was feeling stuck. He eagerly listed the technologies he had mastered, but wasn’t sure what he should tackle next.
 
 He also asked question that I’ve heard many times before: Is it better to go in depth on one programming language or learn a whole bunch of them? I wasn’t very articulate in answering him then, but the question stuck in my mind. Here’s what I wish I’d said.
